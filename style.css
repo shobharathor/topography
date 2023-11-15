@@ -1,0 +1,76 @@
+* {
+    margin:0px;
+    padding:0px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+h2{
+   
+    text-align: center;
+    padding: 15px;
+}
+.box{
+    height:250px;
+    width: 700px;
+    border: 1px solid black;
+    margin: auto;
+background: linear-gradient(-75deg, rgb(0, 0, 0) 38%, rgb(25, 24, 24) 20%, rgb(85, 81, 81) 66%);
+  justify-content: center;
+ 
+}
+.font-1 {
+    font-family: 'Verdana', sans-serif;
+    color: aliceblue;
+}
+
+.font-2 {
+    font-family: 'Arial', sans-serif;
+    color: aliceblue;
+}
+
+.font-3 {
+    font-family: 'Arial', sans-serif;
+    color: aqua;
+}
+.font-1, .font-2, .font-3 {
+    display: inline-block; 
+    margin: 0px -10px;
+    font-size: 90px;
+    padding-top: 80px;
+    padding-left: 100px;
+    
+   
+}
+div p{
+    text-align: left;
+    padding-top: 15px;
+    padding-left:80px;
+    margin-left: 33%;
+    margin-right: 33%;
+   backdrop-filter: white;
+   
+  
+}
+.container iframe{
+     margin-left: 38%;
+    margin-right: 50%;
+    padding:0px;
+    text-indent:0%;
+}
+.end-line{
+   
+    border-top: 3px solid black;
+    margin: 8px 0px;
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 2px;
+   
+}
+
+
+
+
+
+
+
+
